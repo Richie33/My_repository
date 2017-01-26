@@ -1,14 +1,9 @@
 Dumblediff: I should've known you would be here, Professor McGonagit
 
+chmod -> Octal & 
 
-bujumbura
+chmod -R 771 filename
 
+Logical way:
 
-A opitulik
-
-Bujumbura
-
-
-kukukuluka
-
-no uzasne
+chmod -R a+rwx filename
